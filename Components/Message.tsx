@@ -1,3 +1,4 @@
+
 import Image from "next/image";
 import Cat from "../assets/cat.png";
 
